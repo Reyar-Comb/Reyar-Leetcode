@@ -5,10 +5,6 @@
  */
 package main
 
-import (
-	"fmt"
-)
-
 // @lc code=start
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int, len(nums))
@@ -25,8 +21,3 @@ func twoSum(nums []int, target int) []int {
 }
 
 // @lc code=end
-
-func main() {
-	res := twoSum([]int{2, 5, 5, 11}, 10)
-	fmt.Println(res)
-}
