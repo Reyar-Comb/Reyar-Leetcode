@@ -14,6 +14,7 @@ package main
  * }
  */
 
+/*
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	node1 := l1
 	node2 := l2
@@ -69,3 +70,5 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 }
 
 // @lc code=end
+
+*/
