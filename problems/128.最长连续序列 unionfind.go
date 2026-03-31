@@ -24,7 +24,7 @@ func longestConsecutive(nums []int) int {
 			size[parent[key]] += size[key]
 		}
 	}
-
+	return 0
 }
 
 // @lc code=end
