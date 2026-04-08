@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	str := "baa"
-	p := "aa"
-	fmt.Println(findAnagrams(str, p))
+	a := []int{1}
+	fmt.Println(subarraySum(a, 0))
 }
