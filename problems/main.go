@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
-	str := " "
-	fmt.Println(lengthOfLongestSubstring(str))
+	str := "baa"
+	p := "aa"
+	fmt.Println(findAnagrams(str, p))
 }
